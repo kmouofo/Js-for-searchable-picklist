@@ -2952,10 +2952,10 @@
 "Zhengzhou University",
 "Zhongnan University of Economics and Law",
 "Zhytomyr State University of Ivan Franko",
-"Zimbabwe Open University"
-    ];
-   $("[fs-field-validation-name='1.2 University name'] > input").autocomplete({
+   ];
+   
+    $("[fs-field-validation-name='1.2 University name'] > input").autocomplete({
     source: availableTags,
       minLength : 3
 });
-});
+  } );
