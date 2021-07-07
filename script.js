@@ -2247,7 +2247,7 @@
 "Zion-Benton Township High School"
     ];
    
-    $('#fsCell112356591 > input:eq(0)').attr('id').autocomplete({
+    $("#fsCell112356591 > input").autocomplete({
     source: availableTags,
       minLength : 3
 });
