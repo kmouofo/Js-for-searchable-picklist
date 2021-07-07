@@ -2247,7 +2247,7 @@
 "Zion-Benton Township High School"
     ];
    
-    $("#fsCell112356591 > input").autocomplete({
+    $("[fs-field-validation-name='1.1 University name'] > input").autocomplete({
     source: availableTags,
       minLength : 3
 });
