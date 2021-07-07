@@ -7,7 +7,7 @@
 "ASA College",
 "Abilene Christian University",
 "Abraham Baldwin Agricultural College"];
-   $("#fsCell112356591 > input").autocomplete({
+   $("#fsCell112364076 > input").autocomplete({
     source: availableTags,
       minLength : 3
 });
