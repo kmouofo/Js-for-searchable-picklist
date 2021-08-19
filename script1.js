@@ -2028,8 +2028,8 @@
 "yogyakarta state university, indonesia",
 "yunnan nationalities university",
 "İzmir University of Economics",
-"جامعة الموصل - University of Mosul",
-"جامعة اليرموك | Yarmouk University",
+"University of Mosul",
+"Yarmouk University",
 "‪Helwan university‬"
    ];
    
