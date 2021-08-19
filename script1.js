@@ -2026,11 +2026,7 @@
 "yankton college",
 "yeditepe university",
 "yogyakarta state university, indonesia",
-"yunnan nationalities university",
-"İzmir University of Economics",
-"University of Mosul",
-"Yarmouk University",
-"‪Helwan university‬"
+"yunnan nationalities university"
    ];
    
     $("[fs-field-validation-name='1.2 University name'] > input").autocomplete({
